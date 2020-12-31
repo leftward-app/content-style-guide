@@ -15,4 +15,3 @@ Conversely, we as an organization *are not* "the work of life and death". We're 
 ### Be conversational - just don't use it as a tool to build rapport.
 We're not writing college essays. Weird transitions are ok: see "to that point" above. If you're communication is clearer when you get informal, do it. But don't be informal to better identify with an audience. That violates the transparency principle. Nobody trusts a "buddy-buddy" Silicon Valley Workshopped Marketing Voice - at least nobody should.
 
-If you ever see a sentence that can be made more true, succint, clear, unqualified, or direct - do it!
