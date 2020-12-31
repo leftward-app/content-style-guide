@@ -13,3 +13,4 @@
 - [Voice](https://github.com/leftward-app/mission-style-guide/blob/main/writing-voice.md)
 - [Writing Action Descriptions](https://github.com/leftward-app/mission-style-guide/blob/main/writing-actions.md)
 - [What to call things](https://github.com/leftward-app/mission-style-guide/blob/main/writing-things)
+- [Writing Policy Documents](https://github.com/leftward-app/mission-style-guide/blob/main/writing-policy)
