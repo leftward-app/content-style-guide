@@ -14,6 +14,6 @@
 
 ## Internal Organization
 ### Leftward rallies diverse skillsets to transparently curate actions and build tools. 
-- Leftward has a precise and articulated policy agenda that drives the generation and discover of actions.
+- Leftward has a precise and articulated policy agenda that drives the generation and discovery of actions.
 - Leftward has a diverse and empowered stewardship board for vetting and action curation.
-- Designers, developers, and contributors of all kinds are able to amplify the project with low overhead. 
+- Designers, developers, and contributors of all kinds are able to contribut to the project smoothly. 
