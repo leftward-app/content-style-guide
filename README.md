@@ -13,4 +13,4 @@
 - [Writing Action Descriptions](https://github.com/leftward-app/mission-style-guide/blob/main/writing-actions.md)
 - [What to call things](https://github.com/leftward-app/mission-style-guide/blob/main/writing-things)
 - [Writing Policy Documents](https://github.com/leftward-app/mission-style-guide/blob/main/writing-policy)
-- [Language to Avoid](https://github.com/leftward-app/mission-style-guide/blob/main/writing-avoid)
+- [Language to avoid](https://github.com/leftward-app/mission-style-guide/blob/main/writing-avoid)
