@@ -3,9 +3,7 @@
 ## Guiding Documents
 - [Start here: Our Mission](https://github.com/leftward-app/mission-style-guide/blob/main/mission.md)
 - [Vision](https://github.com/leftward-app/mission-style-guide/blob/main/vision.md)
-
-(individual causes)
-
+- [Principles](https://github.com/leftward-app/mission-style-guide/blob/main/principles.md)
 
 ## Writing Style Guide
 - [Principles](https://github.com/leftward-app/mission-style-guide/blob/main/writing-principles.md)
