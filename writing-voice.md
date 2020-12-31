@@ -1,1 +1,15 @@
+Our primary goal with everything we write is to be transparent. Leftward is a platform, and people (us) run that platform. We make decisions about how we're going to mobilize our users. Our users need to trust those decisions match our values. We accomplish this by exposing everything we do - "how" and "why" - and having a voice that's direct, clear, and as no-nonsense transparent as our processes. To support that goal, when you're writing for Leftward:
 
+### Use first person.
+We're people, let's write like it. If we use first person and an active voice, we can keep the focus on our role as stewards.
+
+### Don't sugarcoat or hedge.
+Take some time to read some speeches from great activist speakers - [Malcolm X](https://americanradioworks.publicradio.org/features/blackspeech/mx.html) for example. Notice the direct, unqualified language? We're mobilizing people to action. Hedging and qualifying and caveating are things corporations do to take the bite out of their words. We want some bite in ours. This is serious work.
+
+### Be serious about our values.
+For our partners and the communities we serve, this work is of life and death. Don't take it lightly. Don't joke about causes or actions.
+
+### Don't make it about Leftward.
+Conversely, we as an organization *are not* "the work of life and death". We're servants. Let our work and platform fade into the background and allow everything we do to bring the attention back to Action.
+
+If you ever see a sentence that can be made more true, succint, clear, unqualified, or direct - do it!
