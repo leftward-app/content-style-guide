@@ -1,6 +1,6 @@
 Our primary goal with everything we write is to be transparent. Leftward is a platform, and people (us) run that platform. We make decisions about how we're going to mobilize our users, so our users need to trust those decisions match our values. We accomplish this by exposing everything we do - "how" and "why" - and having a voice that's direct and no-nonsense as with our processes. To support that goal, when you're writing for Leftward:
 
-## Be clear and concise
+### Be clear and concise
 Avoid jargon and get to the point. People scan pages in a [F-shaped pattern](https://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/) so it is best to avoid walls of text and to make sure to display the important information quickly and clearly.  
 
 ### Use first person.
@@ -18,5 +18,5 @@ Conversely, we as an organization are the stewards to those partners and communi
 ### Be conversational - just don't use it as a tool to build rapport.
 We're not writing college essays. Weird transitions are OK: see "to that point" above. If your communication is clearer when you get informal, do it. But don't be informal to better identify with an audience. That violates the transparency principle. Nobody trusts a "buddy-buddy" Silicon Valley Workshopped Marketing Voice.
 
-## Show don't tell
-Back up the claims made and support everything with facts and research. Continuining to build trust with the users that we are working with means that we show them the evidence to the basis of our beliefs. 
+### Show don't tell
+Back up claims with facts and research. Build trust with users by showing the process at every opportunity.
