@@ -1,18 +1,24 @@
-With everything we write, we:
+With everything we write, we want to be:
 
-### Are Transparent
-- Show the process.
-- Acknowledge the unknown.
-- Make content private only out of necessity.
+### Transparent
+- Show the process
+- Acknowledge what you don't know
+- Make content private only if you have to
 
-### Respect
-- Affirm and encourage.
-- Don't patronize.
-- Don't shame or guilt.
-- Be considerate and inclusive.
+### Respectful
+- Affirm and encourage
+- Don't patronize
+- Don't shame or guilt
+- Be considerate and inclusive
 
-### Be Human
+### Human
 - Write like you talk
 - No corporate speak
 - No bullshit
 - No jargon
+
+### Accessible
+- [Write to be translated](https://github.com/mailchimp/content-style-guide/blob/master/13-writing-for-translation.html.md)
+- Keep paragraphs short
+- Does this piece make sense without images?
+
