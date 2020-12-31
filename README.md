@@ -1,2 +1,14 @@
-# content-style-guide
-This is our style guide. It helps us stay consistent in voice and tone.
+# Contents
+
+## Guiding Documents
+[Start here: Our Mission](https://github.com/leftward-app/mission-style-guide/blob/main/mission.md)
+
+- [Vision](https://github.com/leftward-app/mission-style-guide/blob/main/vision.md)
+
+(individual causes)
+
+
+## Writing Style Guide
+- [Principles](https://github.com/leftward-app/mission-style-guide/blob/main/writing-principles.md)
+- [Voice](https://github.com/leftward-app/mission-style-guide/blob/main/writing-voice.md)
+- [Writing Action Descriptions](https://github.com/leftward-app/mission-style-guide/blob/main/writing-actions.md)
