@@ -7,33 +7,14 @@ In the United States of America, there is overwhelming popular support for progr
 
 By matching the needs of organizers to activists looking for an opportunity to make change, we:
 - Empower Organizers by amplifying the impact of campaigns, policy agendas, and direct action 
-- Mobilize Activists by providing concrete ways to support the causes they care about, at any contribution level 
+- Mobilize Activists by providing concrete ways to support the causes they care about, with any contribution 
 
 
 ## The Problem we Solve
 
-There’s a lot in the way between a desire to change the world and taking effective action to do so:
-```
-Identify values
-Map that onto a change in the world
-Research how to bring about that change
-Find an agent or organization that promotes that change
-Vet that organization for legitimacy
-Vet that organization for effectiveness
-Contact that organization and begin a relationship
-Identify specific ways to contribute
-Create an action plan for that contribution
-Coordinate that contribution
-Act
-```
-
-People get lost at each step. This results in inaction, guilt, and anxiety. It contributes to the erosion of democracy and creates an America where people believe they can’t make a difference.
+There’s a lot in the way between a desire to change the world and taking effective action to do so. Identifying the change that needs to happen, doing research, finding organizations, vetting those organizations, building relationships and coordinating a contribution... People drop off at each step. The resulting inaction and guilt contributes to the erosion of democracy and creates an America where people believe they can’t make a difference.
 
 To make moving from values to action as direct and effective as possible, we curate and vet organizations and opportunities that strike at the root cause of these issues. Because of our involvement, we are committed to a transparent process. It starts with this document.
-
-We search for actions and partner with organizations that:
-1. Are aligned with the values we promote
-2. Are likely to lead to real, permanent change
 
 ## The Values we Promote
 ### Economic Justice
