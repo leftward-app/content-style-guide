@@ -1,4 +1,6 @@
-### Focus on understanding the problem first.
-### Be extra transparent.
-### Rally around our values and own the manifesto.
-### Get the first 10 users before the first 100.
+### Be transparent in everything we do.
+### Rally around our values and own the mission.
+
+
+### Focus on understanding the problem we want to solve.
+### Build based on data. If there's no data, create it.
