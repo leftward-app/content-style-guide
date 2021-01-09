@@ -18,15 +18,15 @@ To make moving from values to action as direct and effective as possible, we cur
 
 ## The Values we Promote
 ### Economic Justice
-We believe that the state of wealth and income inequality in the United States is at an unjust and unsustainable level. All workers have the right to organize and fight for a living wage. All workers deserve safe, just, and non-demeaning employment conditions. All workers deserve vacation time, reasonable hours, and other workplace protections and rights.
-### Legal Justice
-We believe the United States’ system of mass incarceration, police brutality, and the disparate application of the law based on class is unconscionable. We strive to dismantle the gender and racial injustices structurally present in our criminal justice system. We strive for an accountable criminal justice system that serves the people. We strive for sentencing reform, the end to the war on drugs, the end of private prisons, and a system that promotes the dignity and flourishing of all peoples.
+We believe that the state of wealth and income inequality in the United States is at an unjust and unsustainable level. All workers have the right to organize and fight for a living wage. All workers deserve safe, just, and non-demeaning employment conditions. All workers deserve vacation time, reasonable hours, and other workplace protections and rights. We believe an economic system that abolishes poverty is possible and just. We believe that healthcare services should not be reserved for those who can afford it.
+### Criminal Justice Reform
+We believe the United States’ system of mass incarceration, police brutality, and the disparate application of the law based on class is unconscionable. We strive to dismantle the gender and racial injustices structurally present in our criminal justice system. We strive for an accountable criminal justice system that serves the people. We strive for sentencing reform, the end to the war on drugs, the end of private prisons, the end of a punitive justice system, and a system that promotes the dignity and flourishing of all peoples.
 ### Environmental Justice
 We believe the world is in a human-caused climate crisis. This crisis represents a real and serious threat to the entire human race, particularly to the marginalized and unborn. We strive for the end of the age of fossil fuels, decarbonization, corporate accountability for emissions, and the development of community-led renewable energy systems.
 ### Racial Justice
 We strive for the eradication of white supremacy and the dismantling of structural racism. We strive to resolve the foundational and unremedied historical injustices that continue to produce unjust outcomes in economics, education, politics, criminal justice, and beyond along racial and ethnic lines. 
 ### Gender and LGBTQ+ Justice
-We affirm and protect the rights of our gay, lesbian, bi, queer, trans, or gender non-conforming fellow humans. We believe in equal pay for equal work. We affirm reproductive rights. This includes access to comprehensive healthcare, name and gender changes on identity documents, and full anti-discrimination protections.
+We affirm and protect the rights of our gay, lesbian, bi, queer, trans, and gender non-conforming fellow humans. We believe in equal pay for equal work. We affirm reproductive rights. This includes access to comprehensive healthcare, name and gender changes on identity documents, and full anti-discrimination protections. We believe in complete reproductive freedom in all forms.
 
 ## How we Vet
 To fulfill our mission, we discover, curate, and share actions that manifest our values. Before we share an action, we make sure of the following:
