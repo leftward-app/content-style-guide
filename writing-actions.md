@@ -12,10 +12,12 @@ This guide is focused on how we effectively present actions to users. That inclu
 
 #### Title
 Do:
-- df
+- Be specific. Make it clear what the action is.
+- Keep length within 80-100 characters.
 
 Don't:
-- dff
+- State the cause. There's an icon for that.
+- Include other information that is revealed when drilling into the action, e.g. the organization.
 
 #### Organization
 The organization sponsoring the action.
